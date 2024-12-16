@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mviana/ProjetosMau/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj": {}
+    "/Users/mviana/ProjetosMau/DigitalBusiness/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj": {}
   },
   "projects": {
-    "/Users/mviana/ProjetosMau/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj": {
+    "/Users/mviana/ProjetosMau/DigitalBusiness/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mviana/ProjetosMau/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj",
+        "projectUniqueName": "/Users/mviana/ProjetosMau/DigitalBusiness/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj",
         "projectName": "DigitalBusinessEFCore",
-        "projectPath": "/Users/mviana/ProjetosMau/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj",
+        "projectPath": "/Users/mviana/ProjetosMau/DigitalBusiness/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj",
         "packagesPath": "/Users/mviana/.nuget/packages/",
-        "outputPath": "/Users/mviana/ProjetosMau/DigitalBusinessEFCore/DigitalBusinessEFCore/obj/",
+        "outputPath": "/Users/mviana/ProjetosMau/DigitalBusiness/DigitalBusinessEFCore/DigitalBusinessEFCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mviana/.nuget/NuGet/NuGet.Config"

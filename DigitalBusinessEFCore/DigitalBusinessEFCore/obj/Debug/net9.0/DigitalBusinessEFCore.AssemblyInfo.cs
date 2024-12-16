@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalBusinessEFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d12b496f712687dd7c1b41a0d32a6165b552fec")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalBusinessEFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalBusinessEFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

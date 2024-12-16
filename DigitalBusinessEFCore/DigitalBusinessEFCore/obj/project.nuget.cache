@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TI9HaRp0mNY=",
+  "dgSpecHash": "m4s44ikcEvM=",
   "success": true,
-  "projectFilePath": "/Users/mviana/ProjetosMau/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj",
+  "projectFilePath": "/Users/mviana/ProjetosMau/DigitalBusiness/DigitalBusinessEFCore/DigitalBusinessEFCore/DigitalBusinessEFCore.csproj",
   "expectedPackageFiles": [
     "/Users/mviana/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/mviana/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
