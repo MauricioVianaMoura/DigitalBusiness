@@ -15,7 +15,8 @@ https://www.pgadmin.org/download/
 https://www.postgresql.org/download/
 
 - Necessário instalar as seguintes bibiotecas para que possamos estar utilizando o Entity Framework Core
-dotnet add package Microsoft.EntityFrameworkCore
-dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+- dotnet add package Microsoft.EntityFrameworkCore
+- dotnet add package Microsoft.EntityFrameworkCore.Design
+- dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
 
 PS: Nos vemos na aula !
